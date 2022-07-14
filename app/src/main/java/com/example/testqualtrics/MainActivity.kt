@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     companion object {
-        const val BranchId = "vinfast"
+        const val BranchId = "vf"
         const val ProjectId = "ZN_6hyerIjfAjcOOp0"
         const val InterceptId = "SI_7XaiurZR0BGK58i"
     }
